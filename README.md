@@ -1,8 +1,9 @@
-# NodeJs and Express Tutorial
+# Node.js and Express Tutorial
 
 ## Description
 
-This is a reference for the NodeJS and Express intro tutorial. You will be pushing code into this repository. Each branch shows what your code should look like (if you get stuck).
+This is a reference for the NodeJS and Express intro tutorial. Each branch shows what your code should look like (if you get stuck).
+
 ## Setup
 
 1. Download or clone this repo
